@@ -1,0 +1,11 @@
+.container .text {
+    background-color: rgb(255,255,0);
+    color: rgb(255,0,0);
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.text {
+    font-size: 25px;
+}
